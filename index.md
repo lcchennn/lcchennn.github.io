@@ -11,7 +11,7 @@
 #### 3. [Neflix Series Review Setiment Analysis](https://github.com/lcchennn/sentiment_analysis/blob/main/Stranger_Things_Review_Sentiment_Analysis.ipynb)
 
 ### SQL
-#### 1. [User Engagement Analysis] (https://databricks-prod-cloudfront.cloud.databricks.com/public/4027ec902e239c93eaaa8714f173bcfc/6402758502131374/3196245102143022/4057529092106587/latest.html)
+#### 1. [User Engagement Analysis](https://databricks-prod-cloudfront.cloud.databricks.com/public/4027ec902e239c93eaaa8714f173bcfc/6402758502131374/3196245102143022/4057529092106587/latest.html)
 
 ### Data Visualization
 #### 1. [Quality of Life Comparison between States in America](https://public.tableau.com/profile/li.chia.chen#!/vizhome/QualityofLifeComparisonbetweenStatesinAmerica/AVG)
