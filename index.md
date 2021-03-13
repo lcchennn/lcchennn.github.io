@@ -1,37 +1,18 @@
-## Welcome to GitHub Pages
+## Li Chia Chen Portfolio
+<br> LinkdIn |  https://www.linkedin.com/in/lichiachen/
+<br> Github | https://github.com/lcchennn
 
-You can use the [editor on GitHub](https://github.com/lcchennn/lcchennn.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+### Machine Learning
+1. [Stroke Prediction Using Machine Learning Approaches](https://github.com/lcchennn/stroke_prediction)
+   ![image](https://user-images.githubusercontent.com/52438350/111052402-4744d000-840f-11eb-9af2-ac4e820da3d7.png)
+2. [Logistic Regression from Scratch](https://github.com/lcchennn/logistic-regression-from-scratch/blob/main/logistic_regression_from_scratch.ipynb)
+   ![image](https://user-images.githubusercontent.com/52438350/111052464-ce924380-840f-11eb-8c92-f8eb5af2ef39.png)
+   ![image](https://user-images.githubusercontent.com/52438350/111052469-d4882480-840f-11eb-9fd5-0bdef5711aec.png)
+3. [Neflix Series Review Setiment Analysis](https://github.com/lcchennn/sentiment_analysis/blob/main/Stranger_Things_Review_Sentiment_Analysis.ipynb)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### SQL
+1. [User Engagement Analysis] (https://databricks-prod-cloudfront.cloud.databricks.com/public/4027ec902e239c93eaaa8714f173bcfc/6402758502131374/3196245102143022/4057529092106587/latest.html)
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/lcchennn/lcchennn.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+### Data Visualization
+1. [Quality of Lift Comparison between States in America](https://public.tableau.com/profile/li.chia.chen#!/vizhome/QualityofLifeComparisonbetweenStatesinAmerica/AVG)
+2. [Dashboard Design - Water and Electricity Usage](https://public.tableau.com/profile/li.chia.chen#!/vizhome/Dashboard-ElectricityandWaterConsumptionStatus/ElectricityandWaterConsumptionStatus)
