@@ -14,7 +14,6 @@
 #### 1. [User Engagement Analysis](https://databricks-prod-cloudfront.cloud.databricks.com/public/4027ec902e239c93eaaa8714f173bcfc/6402758502131374/3196245102143022/4057529092106587/latest.html)
 
 ### Data Visualization
-#### 1. [Quality of Life Comparison between States in America](https://public.tableau.com/profile/li.chia.chen#!/vizhome/QualityofLifeComparisonbetweenStatesinAmerica/AVG)
-<center><iframe src="https://public.tableau.com/views/Dashboard-ElectricityandWaterConsumptionStatus/ElectricityandWaterConsumptionStatus?:language=en&:display_count=y&:origin=viz_share_link" width="942" height="557" frameborder="0"></iframe></center>
+#### 1. [Quality of Life Comparison between States in America](https://public.tableau.com/profile/li.chia.chen#!/vizhome/QualityofLifeComparisonbetweenStatesinAmerica/AVG)        
 
 #### 2. [Dashboard Design - Water and Electricity Usage](https://public.tableau.com/profile/li.chia.chen#!/vizhome/Dashboard-ElectricityandWaterConsumptionStatus/ElectricityandWaterConsumptionStatus)
