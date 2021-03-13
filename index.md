@@ -1,6 +1,6 @@
 ## Li Chia Chen Portfolio
-<br> LinkdIn |  https://www.linkedin.com/in/lichiachen/
-<br> Github | https://github.com/lcchennn
+<br> LinkdIn |  [https://www.linkedin.com/in/lichiachen/] (https://www.linkedin.com/in/lichiachen/)
+<br> Github | [https://github.com/lcchennn](https://github.com/lcchennn)
 
 ### Machine Learning
 #### 1. [Stroke Prediction Using Machine Learning Approaches](https://github.com/lcchennn/stroke_prediction)
