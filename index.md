@@ -1,5 +1,5 @@
 ## Li Chia Chen Portfolio
-<be> Email | [li-chia.chen@sjsu.edu](mailto:li-chia.chen@sjsu.edu)
+<br> Email | [li-chia.chen@sjsu.edu](mailto:li-chia.chen@sjsu.edu)
 <br> LinkdIn |  [https://www.linkedin.com/in/lichiachen](https://www.linkedin.com/in/lichiachen)
 <br> Github | [https://github.com/lcchennn](https://github.com/lcchennn)
 
