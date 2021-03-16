@@ -3,14 +3,3 @@ title: Hi there!
 description: Click on the links to see more details of my projects.
 # Google Analytics
 google_analytics: G-ERZN44CL61
-<html>
-<!-- Global site tag (gtag.js) - Google Analytics -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=G-ERZN44CL61"></script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
-
-  gtag('config', 'G-ERZN44CL61');
-</script>
-</html>
