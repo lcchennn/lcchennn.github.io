@@ -1,5 +1,5 @@
 ## Li Chia Chen Portfolio
-<br> Email | [lzlizchen@gmail.com](mailto:lclizchen@gmail.com)
+<br> Email | [lclizchen@gmail.com](mailto:lclizchen@gmail.com)
 <br> LinkdIn |  [https://www.linkedin.com/in/lichiachen](https://www.linkedin.com/in/lichiachen)
 <br> Github | [https://github.com/lcchennn](https://github.com/lcchennn)
 
